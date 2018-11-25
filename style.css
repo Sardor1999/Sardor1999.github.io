@@ -1,0 +1,28 @@
+
+    h1 {
+        font-family: mv boli;
+        font-size: 44px; 
+        color: white;  
+       text-align: center; 
+        
+    }                       
+        
+    
+    p 
+    {
+     color:blue;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+#movie
+{
+background-color: black;
+}
+pre{
+color: white;
+font-size: 25px;
+}
+#index
+{
+    background-color: black
+}
